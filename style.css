@@ -19,7 +19,7 @@ h3{
 }
 p{
     font-size:20px;
-    color: blue;
+    color: rgb(3, 3, 29);
     margin-bottom: 10px;
 }
 span{
@@ -66,5 +66,27 @@ span{
 }
 p.title-2 {
     margin-right: 288px;
+    text-align: center;
+}
+.box-item{
+    display: flex;
+    margin-top: 20px;
+}
+.item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 15px gray;
+    padding: 20px;
+    border-radius: 15px;
+    border-left: 5px solid red
+}
+h3{
+    color: blue;
+}
+.box-area{
+    margin-bottom: 150px;
+}
+.p{
     text-align: center;
 }
