@@ -25,6 +25,7 @@ span{
     color: blue;
 }
 .sub-header{
+    width: 50%;
     margin-left: 3%;
     padding:2%;
 }
@@ -41,4 +42,10 @@ span{
 .button-link:hover{
     color: lightblue;
     background-color: blue;
+}
+.img-width img{
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 245px;
+    margin-top: 5%;
 }
