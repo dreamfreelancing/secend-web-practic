@@ -5,6 +5,7 @@
 }
 .header{
     display: flex;
+    margin-bottom: 150px;
 }
 h1{
     font-size: 50px;
@@ -48,4 +49,22 @@ span{
     border-radius: 20px;
     margin-left: 245px;
     margin-top: 5%;
+}
+.img-width-2 img{
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.sub-header-2{
+    width: 50%;
+    margin-top: 2%;
+}
+.title{
+    text-align: center;
+    margin-left: 145px;
+}
+p.title-2 {
+    margin-right: 288px;
+    text-align: center;
 }
